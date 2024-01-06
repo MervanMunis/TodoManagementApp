@@ -152,5 +152,3 @@ In the future, I plan to evolve this project into a microservices architecture. 
 
 
 ![Docker](https://github.com/MervanMunis/TodoManagementApp/blob/master/Container-Engine.png)
-
-Thank You For the Greate Tutorials ![Ramesh Fadatare](https://github.com/RameshMF)
