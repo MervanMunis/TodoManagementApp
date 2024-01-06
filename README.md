@@ -40,7 +40,7 @@ RESTful APIs, or Representational State Transfer APIs, are a popular type of web
 #### Architecture of API:
 Spring Boot Application Architecture
 
-![Architecture Diagram](https://github.com/MervanMunis/SpringProject/blob/master/Spring-Boot-Application-Architecture.png)
+![Architecture Diagram](https://github.com/MervanMunis/TodoManagementApp/blob/master/Spring-Boot-Application-Architecture.png)
 
 #### Spring Framework:
 The Todo-Management Backend is built on the Spring Framework, a powerful and widely used framework for Java-based applications. Spring provides comprehensive infrastructure support, making it easier to build robust and scalable applications.
@@ -66,7 +66,7 @@ Spring Boot seamlessly integrates with other projects in the Spring ecosystem, l
 #### How to Initialize a Spring Project:
 You can initialize your spring project by using Spring Initializer: https://start.spring.io/
 
-![Spring Initilizer](https://github.com/MervanMunis/SpringProject/blob/master/Spring-Initilizer.png)
+![Spring Initilizer](https://github.com/MervanMunis/TodoManagementApp/blob/master/Spring-Initilizer.png)
 
 #### Step by Step Preparing The Spring Project:
 
@@ -148,9 +148,9 @@ In the future, I plan to evolve this project into a microservices architecture. 
 
 ##### To visualize the microservices and Docker:
 
-![Microservice Architecture](https://github.com/MervanMunis/SpringProject/blob/master/Microservice-Architecture.png)
+![Microservice Architecture](https://github.com/MervanMunis/TodoManagementApp/blob/master/Microservice-Architecture.png)
 
 
-![Docker](https://github.com/MervanMunis/SpringProject/blob/master/Container-Engine.png)
+![Docker](https://github.com/MervanMunis/TodoManagementApp/blob/master/Container-Engine.png)
 
 Thank You For the Greate Tutorials ![Ramesh Fadatare](https://github.com/RameshMF)
